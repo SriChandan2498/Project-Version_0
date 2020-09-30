@@ -1,0 +1,32 @@
+body{
+  font-family: Georgia;  
+  background-color:RGB(230, 230, 250);
+  /*background-image: url("https://previews.123rf.com/images/ooddysmile/ooddysmile1803/ooddysmile180300100/98561451-white-triangle-and-gray-modern-background-banner-background-web-design-banners-for-infographics-busi.jpg");*/
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+h1{
+    text-shadow: 10px 10px 10px rgb(199, 172, 199) ;
+    text-decoration: underline;
+}
+h3{
+    background-color: rgb(199, 172, 199);
+}
+.centre{
+    text-align:center
+}
+a:link, a:visited 
+        {
+        background-color: rgb(8, 41, 112) ;
+        color: white;
+        border: 2px solid rgb(8, 41, 112);
+        padding: 10px 20px;
+        text-align: center;
+        display: inline-block;
+        }
+ a:hover, a:active 
+        {
+        background-color: rgb(21, 185, 190);
+        color: white;
+        }
